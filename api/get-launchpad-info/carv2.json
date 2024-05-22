@@ -4,6 +4,7 @@
       "name": "CARV Node Sale",
       "tokenName": "CARV",
       "preSaleStartDate": "2024-04-16T01:38:36.905Z",
+      "saleTokenDecimals": 0,
       "allocations": [
         { "name": "Presale", "value": 45 },
         { "name": "Unlocked", "value": 13 },

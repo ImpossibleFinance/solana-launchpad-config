@@ -14,7 +14,7 @@
       ],
       "info": {
         "totalSupply": 10000000000,
-        "networkDetails": "Kontrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+        "networkDetails": "CARV is the largest modular data layer for gaming, AI, and ∞, pioneering a future where data generates value for all. $20M from Temasek’s Vertex, ConsenSys (Metamask), OKX, HashKey, and more.",
         "liquidityLock": "60% ETH raised",
         "duration": "11 Months",
         "public": "One to anyone",
@@ -24,8 +24,8 @@
         "listingPrice": 33333333
       },
       "tokenTradeDate": "2024-04-21T01:38:36.905Z",
-      "whitepaperUrl": "docs.bapackwallet.io",
-      "applicationUrl": "bapackwallet.io",
+      "whitepaperUrl": "https://docs.carv.io/",
+      "applicationUrl": "https://carv.io/",
       "programId": "F8DDjXCpDWQQMdUuPKfnz9wwnB75LWq7xUKamJhFWgJ4",
       "accountAddress": "GC2VpG9VnMZDVhp6idBnMYdef2yxsumyHxRxsJsSZcw9",
       "rpcUrl": "https://api.devnet.solana.com"

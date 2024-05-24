@@ -3,7 +3,7 @@
   "offchainInfo": {
     "name": "CARV Node Sale",
     "tokenName": "CARV",
-    "saleTokenDecimals": 0,
+    "saleTokenDecimals": 9,
     "preSaleStartDate": "2024-04-16T01:38:36.905Z",
     "allocations": [
       { "name": "Presale", "value": 45 },

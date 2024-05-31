@@ -28,7 +28,7 @@
     "applicationUrl": "https://carv.io/",
     "programId": "CwZSnVFThtCdPrpp95L68GsFAjP5ukXMb9pVMKKDeBCV",
     "accountAddress": "4jUufVSoVmWRsWg44hkB32s784kkB1mxrt6aY5L1K4Yr",
-    "rpcUrl": "https://api.mainnet-beta.solana.com"
+    "rpcUrl": "https://bold-solitary-hill.solana-mainnet.quiknode.pro/837476a0a34336ae744a550372e500947e78ab1d"
   },
   "onchainInfo": {
     "price": 0.1,

@@ -1,0 +1,38 @@
+
+{
+  "offchainInfo": {
+    "name": "CARV Node Sale",
+    "tokenName": "CARV",
+    "saleTokenDecimals": 0,
+    "preSaleStartDate": "2024-06-04T09:00:00.905Z",
+    "allocations": [
+      { "name": "Presale", "value": 45 },
+      { "name": "Unlocked", "value": 13 },
+      { "name": "Locked", "value": 1.5 },
+      { "name": "Liquidity", "value": 40 },
+      { "name": "Fees", "value": 0.5 }
+    ],
+    "info": {
+      "totalSupply": 10000000000,
+      "networkDetails": "CARV is the largest modular data layer for gaming, AI, and ∞, pioneering a future where data generates value for all. $20M from Temasek’s Vertex, ConsenSys (Metamask), OKX, HashKey, and more.",
+      "liquidityLock": "60% ETH raised",
+      "duration": "11 Months",
+      "public": "One to anyone",
+      "totalRaise": "500 ETH",
+      "maxSpendPerAccount": "1.6728 ETH",
+      "presalePrice": 33333333,
+      "listingPrice": 33333333
+    },
+    "tokenTradeDate": "2024-04-21T01:38:36.905Z",
+    "whitepaperUrl": "https://docs.carv.io/",
+    "applicationUrl": "https://carv.io/",
+    "programId": "CwZSnVFThtCdPrpp95L68GsFAjP5ukXMb9pVMKKDeBCV",
+    "accountAddress": "3H6U55RYhpcC75o5jNAJKkSGXYybyxEaxopBvgVJBqhM",
+    "rpcUrl": "https://bold-solitary-hill.solana-mainnet.quiknode.pro/837476a0a34336ae744a550372e500947e78ab1d"
+  },
+  "onchainInfo": {
+    "price": 0.1,
+    "priceUnit": "SOL"
+  }
+}
+
